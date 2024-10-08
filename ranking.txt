@@ -1,0 +1,4 @@
+mari: 2
+lucas: 0
+mari: 0
+lucas: 0
